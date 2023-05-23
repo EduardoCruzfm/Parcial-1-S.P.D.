@@ -1,2 +1,2 @@
-# Parcial-1-S.P.D.
+# Parcial-1-SPD
 Primer parcail SPD
